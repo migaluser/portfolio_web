@@ -1,0 +1,12 @@
+.header_left{
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+
+}
+    .header_right{
+        border: 1px solid black;
+        border-radius: 15;
+    }
+    .header_left{
+    background:url("https://www.hariannusantara.com/wp-content/uploads/2019/06/gambar-animasi-pemandangan-gunung3-1.gif");
+}
